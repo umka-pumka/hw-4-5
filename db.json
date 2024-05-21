@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "CAN CANDLE",
+      "author": "Fragrances, insence, Packaging",
+      "price": "20.00$",
+      "imgUrl": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.png"
+    },
+    {
+      "id": "2",
+      "title": "WOOD CANDLE",
+      "author": "Fragrances, insence, Packaging",
+      "price": "20.00$",
+      "imgUrl": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-featured.jpg"
+    },
+    {
+      "id": "3",
+      "title": "GIFT CANDLE",
+      "author": "Fragrances, insence, Packaging",
+      "price": "20.00$",
+      "imgUrl": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-test-1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "DREAM CANDLE",
+      "author": "Fragrances, insence, Packaging",
+      "price": "20.00$",
+      "imgUrl": "https://askka.qodeinteractive.com/wp-content/uploads/2021/05/shop-img-216.jpg"
+    }
+  ],
+  "cartItems": [
+    {
+      "title": "CAN CANDLE",
+      "id": "1",
+      "count": 1,
+      "total": null
+    },
+    {
+      "title": "WOOD CANDLE",
+      "id": "2",
+      "count": 6,
+      "total": null
+    },
+    {
+      "title": "GIFT CANDLE",
+      "id": "3",
+      "count": 2,
+      "total": null
+    },
+    {
+      "title": "DREAM CANDLE",
+      "id": "4",
+      "count": 2,
+      "total": null
+    },
+    {
+      "id": "2",
+      "title": "WOOD CANDLE",
+      "count": 1,
+      "total": null
+    },
+    {
+      "id": "2",
+      "title": "WOOD CANDLE",
+      "count": 1,
+      "total": null
+    },
+    {
+      "id": "1",
+      "title": "CAN CANDLE",
+      "count": 1,
+      "total": null
+    },
+    {
+      "id": "2",
+      "title": "WOOD CANDLE",
+      "count": 1,
+      "total": null
+    },
+    {
+      "id": "3",
+      "title": "GIFT CANDLE",
+      "count": 1,
+      "total": null
+    }
+  ]
+}
